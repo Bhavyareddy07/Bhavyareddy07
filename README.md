@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bhavya on Github!!.
 - 👀 I’m a Associate Software Developer looking to solve realtime projects. I have a passion for learning and sharing the projects.
+- 🌱 I’m currently learning Java Full Stack development. 
 - ⭐ I Strictly follow these..... To learn, To earn, To help. 
-- 🌱 I’m currently learning Java Full Stack development.
-- ❤️ Travelling, Gardening, Social Service. 
+- ❤️ Travelling, Gardening, Social Service.
 - 📫 How to reach me - https://www.linkedin.com/in/reddybhavya
 
 <!---
