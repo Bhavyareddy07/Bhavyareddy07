@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhavya
+- 👋 Hi, I’m Bhavya.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JS.
 - 📫 How to reach me - https://www.linkedin.com/in/reddybhavya
